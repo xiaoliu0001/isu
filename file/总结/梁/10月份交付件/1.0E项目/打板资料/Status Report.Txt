@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[1.0EV5.2-PCB.GTL]
+   Generated File[1.0EV5.2-PCB.G1]
+   Generated File[1.0EV5.2-PCB.G2]
+   Generated File[1.0EV5.2-PCB.GBL]
+   Generated File[1.0EV5.2-PCB.GPB]
+   Generated File[1.0EV5.2-PCB.GPT]
+   Generated File[1.0EV5.2-PCB.GTO]
+   Generated File[1.0EV5.2-PCB.GTP]
+   Generated File[1.0EV5.2-PCB.GTS]
+   Generated File[1.0EV5.2-PCB.GBS]
+   Generated File[1.0EV5.2-PCB.GBP]
+   Generated File[1.0EV5.2-PCB.GBO]
+   Generated File[1.0EV5.2-PCB.GKO]
+   Generated File[1.0EV5.2-PCB.GM1]
+   Generated File[1.0EV5.2-PCB.GM13]
+   Generated File[1.0EV5.2-PCB.GM15]
+   Generated File[1.0EV5.2-PCB.GD1]
+   Generated File[1.0EV5.2-PCB.GG1]
+   Generated File[1.0EV5.2-PCB.RUL]
+   Generated File[1.0EV5.2-PCB.EXTREP]
+   Generated File[1.0EV5.2-PCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 11:00:51 On 2021/9/30

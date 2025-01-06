@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: F:\深圳市苏仁科技有限公司\2020年项目计划\SVP-1.0EW版本\WIFI-版本V5.2\打板资料\1.0EV5.2-PCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
